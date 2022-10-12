@@ -1,5 +1,4 @@
-{
-  "employees": [
+ [
     {
         "id":1,
         "thumbnail":"cardimage/Group 1000002771.png",
@@ -66,4 +65,4 @@
         "level":"easy"
     }
   ]
-}
+
